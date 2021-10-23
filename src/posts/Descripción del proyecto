@@ -1,12 +1,12 @@
 ---
-title: 'My first post'
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+title: 'Descripción del proyecto'
+description: Aquí pondremos una larga e interesante descripción de nuestro proyecto.
 date: 2020-02-02T00:00:00Z
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-Example with image:
+Ejemplo con imagen de un error:
 
 ![Error](/assets/images/posts/error.png)
 
